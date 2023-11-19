@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Shahan Tariq</h1>
-<h3 align="center">Currently leveraging technology for healthcare innovation across Europe.</h3>
+<h1 align="center">Hi there, I'm Shahan 👋</h1>
+<h3 align="center">I'm currently leveraging technology for healthcare innovation across Europe.</h3>
 
 - 🔭 I’m currently working on [UNICOM](https://unicom-project.eu/)
 
