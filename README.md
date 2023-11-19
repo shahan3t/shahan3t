@@ -1,21 +1,15 @@
 <h1 align="center">Hi 👋, I'm Shahan Tariq</h1>
-<h3 align="center">Leveraging the transformative power of technology for healthcare innovation across Europe. Motivated by inclusive software and neuroscience.</h3>
+<h3 align="center">Leveraging technology for healthcare innovation across Europe. Motivated by inclusive software and neuroscience.</h3>
 
 - 🔭 I’m currently working on [UNICOM](https://unicom-project.eu/)
 
-- 🌱 I’m currently learning **Angular**
-
 - 👨‍💻 All of my projects are available at [shahan-tariq.com](shahan-tariq.com)
-
-- 📝 I regularly write articles on [here is a blog link](here is a blog link)
 
 - 💬 Ask me about **react, angular, node**
 
 - 📫 How to reach me **shahan3t@outlook.com**
-
-- 📄 Know about my experiences [resume link](resume link)
-
-- ⚡ Fun fact **Geek out about DW, DnD, HP**
+- 
+- ⚡ Fun fact **Ready to geek out about Doctor Who, Dungeons and Dragons, Harry Potter**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
