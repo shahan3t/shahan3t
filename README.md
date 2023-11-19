@@ -8,7 +8,7 @@
 - 💬 Ask me about **react, angular, node**
 
 - 📫 How to reach me **shahan3t@outlook.com**
-- 
+
 - ⚡ Fun fact **Ready to geek out about Doctor Who, Dungeons and Dragons, Harry Potter**
 
 <h3 align="left">Connect with me:</h3>
