@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shahan Tariq</h1>
-<h3 align="center">Leveraging technology for healthcare innovation across Europe. Motivated by inclusive software and neuroscience.</h3>
+<h3 align="center">Currently leveraging technology for healthcare innovation across Europe. Motivated by inclusive software and neuroscience.</h3>
 
 - 🔭 I’m currently working on [UNICOM](https://unicom-project.eu/)
 
