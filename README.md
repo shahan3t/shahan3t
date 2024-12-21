@@ -4,7 +4,6 @@
 - 🔭 I’m currently working at [empirica](https://empirica.com/)
 
 - 👨‍💻 All of my projects are available at [shahan-tariq.com](shahan-tariq.com)
-- 
 
 - 💬 Ask me about **react, angular, node**
 
